@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\bin\Debug\net6.0\screenSound2.exe
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\bin\Debug\net6.0\screenSound2.deps.json
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\bin\Debug\net6.0\screenSound2.runtimeconfig.json
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\bin\Debug\net6.0\screenSound2.dll
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\bin\Debug\net6.0\screenSound2.pdb
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.AssemblyInfo.cs
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.dll
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\refint\screenSound2.dll
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.pdb
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\screenSound2.genruntimeconfig.cache
+C:\Users\Usuário\Documents\projetos\screenSoundC# 2\screenSound\screenSound2\obj\Debug\net6.0\ref\screenSound2.dll
