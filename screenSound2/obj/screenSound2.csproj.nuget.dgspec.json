@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound2\\screenSound2\\screenSound2.csproj": {}
+    "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound\\screenSound2\\screenSound2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound2\\screenSound2\\screenSound2.csproj": {
+    "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound\\screenSound2\\screenSound2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound2\\screenSound2\\screenSound2.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound\\screenSound2\\screenSound2.csproj",
         "projectName": "screenSound2",
-        "projectPath": "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound2\\screenSound2\\screenSound2.csproj",
+        "projectPath": "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound\\screenSound2\\screenSound2.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound2\\screenSound2\\obj\\",
+        "outputPath": "C:\\Users\\Usuário\\Documents\\projetos\\screenSoundC# 2\\screenSound\\screenSound2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
